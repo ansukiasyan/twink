@@ -1,0 +1,8 @@
+# Terraform
+**/.terraform
+**/*.tfstate
+**/*.tfstate.*
+**/*.tfvars
+
+# Visual Studio Code
+**/.vscode
